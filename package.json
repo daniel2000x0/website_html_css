@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.69.4"
+  },
+  "name": "travelshtlmcss",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch sass/style.scss:css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
